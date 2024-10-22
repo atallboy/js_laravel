@@ -1,0 +1,11 @@
+{
+    "name": "Index",
+    "alias": "index",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Index\\Providers\\IndexServiceProvider"
+    ],
+    "files": []
+}
